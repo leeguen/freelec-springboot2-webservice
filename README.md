@@ -29,4 +29,5 @@
 - RDBMS 사용
 - amazone 서버에 배포
 
+## http://ec2-15-165-155-144.ap-northeast-2.compute.amazonaws.com:8080/
 
