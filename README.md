@@ -26,7 +26,7 @@
 - 로그아웃
 - 게시글 삭제
 - 게시글 작성
-- RDBMS 사용
+- Amazone RDS 사용
 - amazone 서버에 배포
 
 - http://ec2-15-165-155-144.ap-northeast-2.compute.amazonaws.com:8080/
